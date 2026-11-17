@@ -8,8 +8,8 @@ Estoy aprendiendo Python, SQL y Power BI, y armando proyectos con datos reales d
 - Mi primer proyecto de análisis exploratorio (próximamente)
 
 ## Herramientas
-Python · SQL · Power BI · Git · Markdown
+Python · SQL · Power BI · Git 
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/matias-fusatti-056786378/)
-- *matifusatti@gmail.com*
+- [LinkedIn](https://www.linkedin.com/in/matiasfusatti/)
+- [matifusatti@gmail.com](mailto:matifusatti@gmail.com)
