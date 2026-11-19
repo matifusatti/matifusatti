@@ -11,5 +11,4 @@ Estoy aprendiendo Python, SQL y Power BI, y armando proyectos con datos reales d
 Python · SQL · Power BI · Git 
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/matiasfusatti/)
 - [matifusatti@gmail.com](mailto:matifusatti@gmail.com)
